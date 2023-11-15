@@ -9,10 +9,11 @@ Möglichkeit #1
 In der Server cfg den folgenden befehl eintragen. 
 
 start Logger1
-```
+
 
 Möglichkeit #2
 Füge das Archiv in ein bereits mit [BEISPIEL] erstelltes ein.
+```
 
 | ![Script Start](https://github.com/G3N3RATION-X/FiveM_Discord-log-System/assets/102898784/c3dd5a9e-2ddb-491a-9528-3fdb9b122d34) | 
 ![Server Beitritt](https://github.com/G3N3RATION-X/FiveM_Discord-log-System/assets/102898784/9a2fe6f6-e3bd-4c0b-a228-410c53fa9598) |
