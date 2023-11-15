@@ -10,7 +10,7 @@ Möglichkeit #1
 In der Server cfg den folgenden befehl eintragen. 
 
 -- Server Config
-start Logger1
+start Logger
 
 
 Möglichkeit #2
