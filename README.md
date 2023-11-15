@@ -5,6 +5,7 @@
 Installation.:
 
 Möglichkeit #1
+--------------
 .rar entpacken und das Verzeichnis in den Resourcen Ordner verschieben.
 In der Server cfg den folgenden befehl eintragen. 
 
@@ -13,6 +14,7 @@ start Logger1
 
 
 Möglichkeit #2
+--------------
 Füge das Archiv in ein bereits mit [BEISPIEL] erstelltes ein.
 ```
 
