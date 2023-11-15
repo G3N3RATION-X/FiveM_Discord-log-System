@@ -15,6 +15,8 @@ In der Server cfg den folgenden befehl eintragen.
 -- Server Config
 start Logger
 
+config.lua entsprechend anpassen.
+
 Server Neustarten, Fertig !!!
 
 Möglichkeit #2
