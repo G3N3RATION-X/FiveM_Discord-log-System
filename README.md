@@ -8,6 +8,7 @@ Möglichkeit #1
 .rar entpacken und das Verzeichnis in den Resourcen Ordner verschieben.
 In der Server cfg den folgenden befehl eintragen. 
 
+-- Server Config
 start Logger1
 
 
