@@ -10,15 +10,16 @@ Möglichkeit #1
 Denr Name ist euch überlassen.
 Nun nur noch alle Dateien aus dem Archiv hinein Kopieren.
 
-In der Server cfg den folgenden befehl eintragen. 
+In der Server cfg den folgenden befehl eintragen.
 
 -- Server Config
 start Logger
 
+Server Neustarten, Fertig !!!
 
 Möglichkeit #2
 --------------
-Füge das Archiv in ein bereits mit [BEISPIEL] erstelltes ein.
+Füge das Archiv in ein bereits mit erstelltes [BEISPIEL] ein.
 ```
 
 | ![Script Start](https://github.com/G3N3RATION-X/FiveM_Discord-log-System/assets/102898784/c3dd5a9e-2ddb-491a-9528-3fdb9b122d34) | 
