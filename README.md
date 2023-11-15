@@ -7,7 +7,7 @@ Installation.:
 Möglichkeit #1
 --------------
 .rar entpacken und ein Verzeichnis in Resourcen erstellen.
-Denr name ist euch überlassen.
+Denr Name ist euch überlassen.
 Nun nur noch alle Dateien aus dem Archiv hinein Kopieren.
 
 In der Server cfg den folgenden befehl eintragen. 
